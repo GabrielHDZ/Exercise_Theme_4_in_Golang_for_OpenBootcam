@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	menu := true
+	//menu principal en donde se puede ejecutar los ejercicios realizados
 	for menu {
 		var opcion int
 		fmt.Println("\n seleccione un numero del menu")
